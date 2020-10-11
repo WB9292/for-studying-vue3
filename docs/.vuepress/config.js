@@ -17,7 +17,7 @@ module.exports = {
     lastUpdated: '上一次更新时间',
     nav: [
       { text: "源码解析", link: "/read/" },
-      { text: "赞助", link: "/support/" },
+      // { text: "赞助", link: "/support/" },
       { text: "源码", link: "https://github.com/WB9292/vue-next" },
     ],
     sidebar: {
